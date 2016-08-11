@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="ChoiceText">Выбери цифру 1 и нажми далее</string>
+    <string name="Sound"> 1</string>
+    <string name="Vibration">Не 1</string>
+    <string name="Silent">Тоже не 1</string>
+    <string name="Choose">Далее</string>
+    <string name="title_activity_main3">Main3Activity</string>
+    <string name="blogging">!!!!!!</string>
+    <string name="music">!22</string>
+    <string name="game">!!!!333</string>
+    <string name="submit">Button</string>
+    <string name="hint">Chooseany</string>
+</resources>
